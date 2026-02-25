@@ -59,3 +59,6 @@ outputs/experiments/run_*/
 outputs_opt/pilot/
 outputs_opt/tune*/
 outputs_opt/experiments/run_*/
+
+# Local planning notes
+PROJECT_PLAN.md
