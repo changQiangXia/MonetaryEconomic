@@ -30,7 +30,7 @@
 6. 参数实验与图表化解释已完成  
 证据：`outputs/experiments/experiment_summary.xlsx` 与 `outputs/experiments/figures/*.png`。
 
-## 3) 你如何验收（最省时）
+## 3) 如何验收（最省时）
 ### A. 一键验收（推荐）
 在项目根目录执行：
 
@@ -60,7 +60,7 @@ python -m src.run_experiments --save-details
 python -m src.validate_delivery
 ```
 
-## 6) 后续增量优化（不覆盖当前交付）
+## 6) 后续增量优化（在Word文档中提出方法的基础上）
 本节为增量优化构思，目的不是替代当前产物，而是在保持既有结果可验收的前提下，新增更强解释力和鲁棒性。
 
 ### 6.1 不改变现有成果的约束

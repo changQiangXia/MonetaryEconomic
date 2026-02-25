@@ -1,4 +1,4 @@
-# 实验分析报告（自动版）
+# 实验分析报告
 
 更新时间：2026-02-24  
 数据源：`outputs/experiments/experiment_summary.xlsx`（`summary` sheet，36 组参数）
